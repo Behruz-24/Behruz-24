@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Behruz-24
-- 👀 I’m interested in FB
+- 👀 I’m interested in python programm
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me E-mail 
